@@ -1,12 +1,12 @@
-# Name: 
+# Name: Kyosuke Matsutani (Kai)
 
 ### Professional Summary
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+After I graduated from a university in Japan, I worked at a computer company. After I quit it, I moved to Vancouver to learn International Business Management and Data Science.
 
 ### Core Skills
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I have basic PC skills. I can use Word, Powerpoint, Excel.   
 
 ### Languages
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I can speak English, Japanese(Fluently), and French(a little bit).
 
 ### etc.
