@@ -1,12 +1,13 @@
 # Name: 
+Taylor
 
 ### Professional Summary
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current Data Science student transitioning into Data Engineering with a background in software development. Passionate about building scalable ETL pipelines and automating workflows using Python and SQL. Dedicated to mastering cloud infrastructure and DevSecOps principles to bridge the gap between software engineering and data solutions.
 
 ### Core Skills
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Languages: Python, SQL, Javascript, Typescript, PHP
+- Tools & Infrastructure: Git/GitHub, Docker, AWS
+- Academic Focus: Data Science (Statistical Analysis, Machine Learning Fundamentals)
 
 ### Languages
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### etc.
+English, Mandarin, Japanese, Thai, French
