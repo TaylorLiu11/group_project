@@ -1,12 +1,17 @@
 # Name: 
+Sasinan Khumgrad
+Cotton
+Fai
 
 ### Professional Summary
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Design-driven aspiring data professional with a background in Ceramics Innovation Design and Digital Marketing, currently studying Data Science at CICCC. Passionate about combining creativity with technology through web design and front-end development. Experienced in adapting to new fields, balancing work and study, and committed to continuous learning, problem-solving, and building impactful digital experiences through coding and design.
+
 
 ### Core Skills
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Web design fundamentals, front-end development basics, digital marketing knowledge, creative problem-solving, adaptability, continuous learning mindset, visual design thinking, communication skills, time management, collaboration, and strong motivation to bridge design with technology.
 
 ### Languages
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Native Thai
+English
 
 ### etc.
