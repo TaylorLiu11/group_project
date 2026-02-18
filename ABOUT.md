@@ -13,5 +13,3 @@ Web design fundamentals, front-end development basics, digital marketing knowled
 ### Languages
 Native Thai
 English
-
-### etc.
