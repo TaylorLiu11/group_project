@@ -1,4 +1,5 @@
-# Name: Kyosuke Matsutani (Kai)
+# Name: 
+Kyosuke Matsutani (Kai)
 
 ### Professional Summary
 After I graduated from a university in Japan, I worked at a computer company. After I quit it, I moved to Vancouver to learn International Business Management and Data Science.
