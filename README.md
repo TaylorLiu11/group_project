@@ -39,6 +39,7 @@ In short, a Pull Request is a safe way to review and merge code in a team.
 
 ### Submitting and reviewing pull requests
 **Part 1: Submitting a Pull Request**
+
 A Pull Request is how you propose changes to a repository. It lets other able to review your code before merging it.
 
 Step 1: Create a New Branch
@@ -73,7 +74,54 @@ Base (a base ref) → main
 
 Compare (a head ref) → feature/your-feature-name
 
+Step 3: Fill Out PR Details
 
+*Include:*
+
+Clear title
+
+What you changed
+
+Why you changed it
+
+**Part 2: Reviewing a Pull Request**
+
+As a collaborator or reviewer:
+
+Step 1: Open the Pull Requests
+
+Repository → Pull Requests → Click the Pull Request
+
+Step 2: Review the Code
+
+Click Files changed tab.
+
+Step 3: Submit Review
+
+Click Review changes (top right)
+
+**Part 3: Making Changes After Review**
+
+If changes are requested:
+
+* Makes edits locally
+* Commit again:
+
+[git add
+
+git commit -m "Fix requested changes"
+
+git push]
+
+**Part 4: Merging a Pull Request**
+
+Once approved
+
++ Click **Merge Pull request**
+
++ Confirm merge
+
++ Optionally delete the branch
 
 
 ## What we learned
@@ -172,6 +220,92 @@ This process makes code quality better and helps teams collaborate very effectiv
 
 
 
+**Create a Repository**
+
+GitHub repository = central storage for your project
+
+*Significance:*
+
++ Acts as the main project folder online
+
++ Keep all files organized
+
++ Tracks every activities that has been made
+
++ Allows collaboration
+
+**Clone the Repository**
+
+*Significance:*
+
++ Creates a local copy on your computer
+
++ Lets you work offline
+
++ Connects your computer to the remote repository
+
+**Create a Branch**
+
+*Significance:*
+
++ Lets you work independently
+
++ Prevents breaking the main project
+
++ Allow multiple team members to work at the same time
+
+**Add/ Stage Changes**
+
+*Significance:*
+
++ Selects which changes you want to save
+
++ Prepares files for recording
+
+**Commit Changes**
+
+*Significance:*
+
++ Saves a snapshot of your work
+
++ Creates a clear history
+
++ Allow tracking who changed what and when
+
+**Push to GitHub**
+
+*Significance:*
+
++ Uploads your work to GitHub
+
++ Shares changes with teammates
+
++ Backs up your work online
+
+**Create a Pull Request**
+
+*Significance:*
+
++ Requests to merge your work into the main branch
+
++ Allows review and discussion
+
++ Reduces errors
+
+**Merge**
+
+*Significance:*
+
++ Combines your experiment with the main project
+
++ Updates the final version
+
+**Pull Updates**
+
+*Significance:*
+
++ Syncs your local copy with the latest version
+
++ Prevents conflicts
 
 ### Common Challenges and Troubleshooting Techniques
-During login validation GitHub not allow you to use any password so you require to create key on your GitHub that allow to access GitHub connection
