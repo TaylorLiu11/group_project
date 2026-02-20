@@ -1,7 +1,7 @@
 # group_project
 This is a project on how to use git and GitHub.
 
-<<<<<<< develop
+
 ## Practical Workflow Demonstration
 ### Git Commands
 Commands are text instructions that you give to Git to perform specific actions.
@@ -361,5 +361,3 @@ This credential problem happened because git does not have our credential at the
 3. Scroll down and click `< > Developer settings` button.
 4. Click on `Personal access tokens` and give the token a name to generate token.
 
-=======
->>>>>>> main
