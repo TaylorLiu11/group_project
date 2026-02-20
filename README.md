@@ -23,6 +23,7 @@ git push: Uploads your local saves to the shared repository on GitHub.
 
 git pull: Fetches and merges updates from your teammates into your local computer.
 
+
 ### Cloning v.s. Forking repositories
 #### Cloning
 In this project that we are demonstrating, we are only using the cloning method. Since this is a simulation of a team working together to build up a project, we chose to use the cloning.
@@ -50,6 +51,7 @@ After finishing his or her work, a user commits his or her changes and pushes th
 Then, a user creates a Pull Request. In the Pull Request, a user explains what he or she changed and why he or she made that changes. This enables other team members to read a user's code, leave comments, or request improvements. If they request changes, a user can fix the code in the same branch and push again. The Pull Request will update automatically.
 When everyone agrees that the code is correct, the Pull Request is merged into the main branch. After merging, the feature branch will be usually deleted.
 In short, a Pull Request is a safe way to review and merge code in a team.
+
 
 ### Submitting and reviewing pull requests
 **Part 1: Submitting a Pull Request**
@@ -88,8 +90,6 @@ Base (a base ref) → main
 Compare (a head ref) → feature/your-feature-name
 
 
-
-
 ## What we learned
 ### What is Git/GitHub?
 
@@ -119,7 +119,6 @@ It allows you to:
 
 Think of GitHub like: Google Drive for code, powered by Git
 
-### Our Group Experience
 
 ### Why Git and GitHub are Useful Tools
 Git and GitHub are useful because they allow the users to track the code changes, and perform sharing and collaborating on code. They are like a time machines, when there is something wrong in the process of developing, the users can utilize Git to simply just revert to the last version that was still correct.
@@ -194,8 +193,6 @@ Submitting a pull request is about asking others to check a user's work before m
 Reviewing a pull request means reading the code changes, checking for mistakes, making suggestions for improvements, and approving of or requesting changes.
 
 This process makes code quality better and helps teams collaborate very effectively. 
-
-
 
 
 ### Common Challenges and Troubleshooting Techniques
