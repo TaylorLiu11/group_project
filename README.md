@@ -3,7 +3,25 @@ This is a project on how to use git and GitHub.
 
 ## Practical Workflow Demonstration
 ### Git Commands
+Commands are text instructions that you give to Git to perform specific actions.
 
+Think of commands like: telling Git exactly what to do.
+
+In Git, every command starts with the word git, followed by an action
+
+git init: Initializes a new local repository to start tracking a project.
+
+git clone: Creates a local copy of a project that already exists on GitHub.
+
+git status: Shows which files have been modified and what is ready to be saved.
+
+git add: Moves changes to the "Staging Area" to prepare them for a save.
+
+git commit -m "...": Permanently saves the staged changes with a descriptive message.
+
+git push: Uploads your local saves to the shared repository on GitHub.
+
+git pull: Fetches and merges updates from your teammates into your local computer.
 
 ### Cloning v.s. Forking repositories
 
@@ -12,7 +30,7 @@ This is a project on how to use git and GitHub.
 
 
 ### Creating and resolving pull requests
-A Pull Request is a method to ask to mege a user's changes into another branch in Git.
+A Pull Request is a method to ask to merge a user's changes into another branch in Git.
 First, a user makes a new branch from the main branch. A user does his or her work in that branch so the main branch remains safe and unchanged.
 After finishing his or her work, a user commits his or her changes and pushes the branch to the remote repository.
 Then, a user creates a Pull Request. In the Pull Request, a user explains what he or she changed and why he or she made that changes. This enables other team members to read a user's code, leave comments, or request improvements. If they request changes, a user can fix the code in the same branch and push again. The Pull Request will update automatically.
@@ -25,6 +43,31 @@ In short, a Pull Request is a safe way to review and merge code in a team.
 ## What we learned
 ### What is Git/GitHub?
 
+#### Git is a version control system.
+
+Git is a local tool that tracks changes in your code over time.
+It acts like a "save game" system. Git allows you to revert to a previous working version.
+
+It helps you:
+- Track changes in your files over time
+- Save different versions of your project
+- Go back to previous versions if something breaks
+- Work safely without losing your work
+- Collaborate with other people
+
+Think of Git like: a history tracker for your project.
+
+#### Github is a cloud platform that hosts Git repositories.
+
+It allows you to:
+
+- Store your code online
+- Collaborate with others
+- Share projects
+- Backup your work
+- Contribute to team projects
+
+Think of GitHub like: Google Drive for code, powered by Git
 
 ### Our Group Experience
 
@@ -90,7 +133,7 @@ Submitting a pull request is about asking others to check a user's work before m
 
 Reviewing a pull request means reading the code changes, checking for mistakes, making suggestions for improvements, and approving of or requesting changes.
 
-This process makes code quality better and helps teams collaborete very effectively. 
+This process makes code quality better and helps teams collaborate very effectively. 
 
 
 
